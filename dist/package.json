@@ -1,0 +1,11 @@
+{
+  "name": "blackbase-v2",
+  "version": "0.0.1",
+  "description": "Realtime NoSQL database powered by socket.io",
+  "main": "Blackbase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
